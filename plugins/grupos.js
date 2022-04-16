@@ -7,7 +7,6 @@ let info = `
 
 *➤ Grupos oficiales del Bot:*
 *1.-* https://chat.whatsapp.com/HvpipeAxhIQ6maQPJturId
-
 *2.-* https://chat.whatsapp.com/Iy9ckMakugL7zp39gXvQzo
 
 
