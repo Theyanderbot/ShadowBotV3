@@ -11,7 +11,7 @@ let handler = async m => m.reply(`
 ➤ 2 teléfonos o un 1 teléfono y una PC (es temporal - solo para escanear un código QR)
 
 💥 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 💥
-➤ https://github.com/BrunoSobrino/ShadowBotV3
+➤ https://github.com/Theyanderbot/ShadowBotV3
 
 💥 𝐀𝐑𝐄𝐀 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 💥
 ➤ Termux: https://f-droid.org/en/packages/com.termux/
@@ -24,7 +24,7 @@ let handler = async m => m.reply(`
 ➤ apt install nodejs -y
 ➤ apt install ffmpeg -y
 ➤ apt install imagemagick -y
-➤ git clone https://github.com/BrunoSobrino/ShadowBotV3
+➤ https://github.com/Theyanderbot/ShadowBotV3
 ➤ cd ShadowBotV3
 ➤ npm install
 ➤ npm install -g npm@8.5.4
@@ -38,7 +38,7 @@ let handler = async m => m.reply(`
 ➤ Para habilitar el /añadir y el /sacar usa #enable autoread
 - Puede ocasionar que el numero se vaya a soporte 
 ➤ PayPal para apoyo voluntario: https://www.paypal.me/TheShadowBrokers133
-➤ Numero de ayuda durante la instalacion: wa.me/5219992095479 (No Bot, solo ayuda durante la instalación)
+➤ Numero de ayuda durante la instalacion: wa.me/50671762786 (No Bot, solo ayuda durante la instalación)
 
 *◄┢┅͜͡✇⟬↯ື ►ஜ۩💥۩ஜ◄ ↯ື⟭✇͜͡┅┧►*
 `.trim()) 
