@@ -19,7 +19,7 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: yander* 
+║➤ *Creador del Bot: Yander Arias* 
 ║➤ *Numero del creador:* *wa.me/50671762786 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
 ║➤ *Numero del Bot oficial:* *wa.me/18454424766*
@@ -132,58 +132,58 @@ let menu =`
 ┏━━━━━━━━━━━━━┓
 ┃ *<GESTION DE GRUPOS/>* 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟💎 _${usedPrefix}admins *texto*_ 
-┣ ඬ⃟💎 _${usedPrefix}añadir *numero*_ 
-┣ ඬ⃟💎 _${usedPrefix}sacar @tag_
-┣ ඬ⃟💎 _${usedPrefix}save *@tag + nombre de contacto*_
-┣ ඬ⃟💎 _${usedPrefix}daradmin *@tag*_
-┣ ඬ⃟💎 _${usedPrefix}quitaradmin *@tag*_
-┣ ඬ⃟💎 _${usedPrefix}grupo *abrir / cerrar*_
-┣ ඬ⃟💎 _${usedPrefix}enable nsfw_
-┣ ඬ⃟💎 _${usedPrefix}disable nsfw_
-┣ ඬ⃟💎 _${usedPrefix}enable welcome_
-┣ ඬ⃟💎 _${usedPrefix}disable welcome_
-┣ ඬ⃟💎 _${usedPrefix}enable antilink_
-┣ ඬ⃟💎 _${usedPrefix}disable antilink_
-┣ ඬ⃟💎 _${usedPrefix}enable antilink2_
-┣ ඬ⃟💎 _${usedPrefix}disable antilink2_
-┣ ඬ⃟💎 _${usedPrefix}enable delete_
-┣ ඬ⃟💎 _${usedPrefix}disable  delete_ 
-┣ ඬ⃟💎 _${usedPrefix}link_
-┣ ඬ⃟💎 _${usedPrefix}notificar *texto*_
-┣ ඬ⃟💎 _${usedPrefix}setname *Nuevo nombre del grupo*_
-┣ ඬ⃟💎 _${usedPrefix}setdesc *Nueva descripción del grupo*_
-┣ ඬ⃟💎 _${usedPrefix}infogrupo_
-┣ ඬ⃟💎 _${usedPrefix}invocar *texto*_
-┣ ඬ⃟💎 _${usedPrefix}del *responder a un mensaje del bot*_
-┣ ඬ⃟💎 _${usedPrefix}fantasmas_
-┣ ඬ⃟💎 _${usedPrefix}banchat_
-┣ ඬ⃟💎 _${usedPrefix}unbanchat_
+┣ ඬ⃟😂 _${usedPrefix}admins *texto*_ 
+┣ ඬ⃟😂 _${usedPrefix}añadir *numero*_ 
+┣ ඬ⃟😂 _${usedPrefix}sacar @tag_
+┣ ඬ⃟😂 _${usedPrefix}save *@tag + nombre de contacto*_
+┣ ඬ⃟😂 _${usedPrefix}daradmin *@tag*_
+┣ ඬ⃟😂 _${usedPrefix}quitaradmin *@tag*_
+┣ ඬ⃟😂 _${usedPrefix}grupo *abrir / cerrar*_
+┣ ඬ⃟😂 _${usedPrefix}enable nsfw_
+┣ ඬ⃟😂 _${usedPrefix}disable nsfw_
+┣ ඬ⃟😂 _${usedPrefix}enable welcome_
+┣ ඬ⃟😂 _${usedPrefix}disable welcome_
+┣ ඬ⃟😂 _${usedPrefix}enable antilink_
+┣ ඬ⃟😂 _${usedPrefix}disable antilink_
+┣ ඬ⃟😂 _${usedPrefix}enable antilink2_
+┣ ඬ⃟😂 _${usedPrefix}disable antilink2_
+┣ ඬ⃟😂 _${usedPrefix}enable delete_
+┣ ඬ⃟😂 _${usedPrefix}disable  delete_ 
+┣ ඬ⃟😂 _${usedPrefix}link_
+┣ ඬ⃟😂 _${usedPrefix}notificar *texto*_
+┣ ඬ⃟😂 _${usedPrefix}setname *Nuevo nombre del grupo*_
+┣ ඬ⃟😂 _${usedPrefix}setdesc *Nueva descripción del grupo*_
+┣ ඬ⃟😂 _${usedPrefix}infogrupo_
+┣ ඬ⃟😂 _${usedPrefix}invocar *texto*_
+┣ ඬ⃟😂 _${usedPrefix}del *responder a un mensaje del bot*_
+┣ ඬ⃟😂 _${usedPrefix}fantasmas_
+┣ ඬ⃟😂 _${usedPrefix}banchat_
+┣ ඬ⃟😂 _${usedPrefix}unbanchat_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<CREADORES/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🧧 _${usedPrefix}s_
-┣ ඬ⃟🧧 _${usedPrefix}sticker_
-┣ ඬ⃟🧧 _${usedPrefix}semoji_
-┣ ඬ⃟🧧 _${usedPrefix}wasted_
-┣ ඬ⃟🧧 _${usedPrefix}stonks_
-┣ ඬ⃟🧧 _${usedPrefix}trash_
-┣ ඬ⃟🧧 _${usedPrefix}rainbow_
-┣ ඬ⃟🧧 _${usedPrefix}circle_
-┣ ඬ⃟🧧 _${usedPrefix}trigger_
-┣ ඬ⃟🧧 _${usedPrefix}stickermaker_
-┣ ඬ⃟🧧 _${usedPrefix}attp *texto*_
-┣ ඬ⃟🧧 _${usedPrefix}style *texto*_
-┣ ඬ⃟🧧 _${usedPrefix}attp2 *texto*_
-┣ ඬ⃟🧧 _${usedPrefix}stickerfilter_
-┣ ඬ⃟🧧 _${usedPrefix}trigger *@tag*_
-┣ ඬ⃟🧧 _${usedPrefix}mp3 *responde a un video*_
-┣ ඬ⃟🧧 _${usedPrefix}img *responde a un sticker*_
-┣ ඬ⃟🧧 _${usedPrefix}blur *responde a una imagen*_
-┣ ඬ⃟🧧 _${usedPrefix}swm *link de imagen de google*_
-┣ ඬ⃟🧧 _${usedPrefix}gif *responde a un sticker/video*_
-┣ ඬ⃟🧧 _${usedPrefix}tovideo *responde a una nota de voz*_
+┣ ඬ⃟😎 _${usedPrefix}s_
+┣ ඬ⃟😎 _${usedPrefix}sticker_
+┣ ඬ⃟😎 _${usedPrefix}semoji_
+┣ ඬ⃟😎 _${usedPrefix}wasted_
+┣ ඬ⃟😎 _${usedPrefix}stonks_
+┣ ඬ⃟😎 _${usedPrefix}trash_
+┣ ඬ⃟😎 _${usedPrefix}rainbow_
+┣ ඬ⃟😎 _${usedPrefix}circle_
+┣ ඬ⃟😎 _${usedPrefix}trigger_
+┣ ඬ⃟😎 _${usedPrefix}stickermaker_
+┣ ඬ⃟😎 _${usedPrefix}attp *texto*_
+┣ ඬ⃟😎 _${usedPrefix}style *texto*_
+┣ ඬ⃟😎 _${usedPrefix}attp2 *texto*_
+┣ ඬ⃟😎 _${usedPrefix}stickerfilter_
+┣ ඬ⃟😎 _${usedPrefix}trigger *@tag*_
+┣ ඬ⃟😎 _${usedPrefix}mp3 *responde a un video*_
+┣ ඬ⃟😎 _${usedPrefix}img *responde a un sticker*_
+┣ ඬ⃟😎 _${usedPrefix}blur *responde a una imagen*_
+┣ ඬ⃟😎 _${usedPrefix}swm *link de imagen de google*_
+┣ ඬ⃟😎 _${usedPrefix}gif *responde a un sticker/video*_
+┣ ඬ⃟😎 _${usedPrefix}tovideo *responde a una nota de voz*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<RANDOM|EXTRAS/>*
