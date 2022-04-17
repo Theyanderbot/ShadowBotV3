@@ -15,7 +15,7 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
-┃ *<MENU +18/>*
+┃ *<🥵MENU +18🥵/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🔞 _${usedPrefix}video_
 ┣ ඬ⃟🔞 _${usedPrefix}imglesbians_
@@ -58,7 +58,7 @@ let menu =`
 ┣ ඬ⃟🔞 _${usedPrefix}nsfwloli_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
-conn.sendButtonImg(m.chat, pp, menu, '©The Shadow Brokers - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
+conn.sendButtonImg(m.chat, pp, menu, '©The Yander - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'ora.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
