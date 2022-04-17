@@ -19,17 +19,19 @@ let handler = async m => m.reply(`
    
 💥 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐂𝐈𝐎𝐍 𝐕𝐈𝐀 𝐆𝐈𝐓𝐇𝐔𝐁 💥
 > termux-setup-storage
-➤ apt update && apt upgrade -y -y
-➤ apt install git -y
-➤ apt install nodejs -y
-➤ apt install ffmpeg -y
-➤ apt install imagemagick -y
-➤ https://github.com/Theyanderbot/ShadowBotV3
-➤ cd ShadowBotV3
-➤ npm install
-➤ npm install -g npm@8.5.4
-➤ npm update
-➤ npm start
+> apt update && apt upgrade -y -y
+> pkg install git 
+> apt install git -y
+> apt install nodejs -y
+> apt install ffmpeg -y
+> apt install imagemagick -y
+> git clone https://github.com/Theyanderbot/ShadowBotV3
+> cd ShadowBotV3
+> ls
+> npm install 
+> npm install -g npm@8.7.0
+> npm update
+> npm start
 ° Escaneas el código QR tienes 30 segundos para hacerlo
 
 💥 INFO EXTRA 💥
@@ -37,7 +39,6 @@ let handler = async m => m.reply(`
 ➤ Bot no compartible con WhatsApp web multi device 
 ➤ Para habilitar el /añadir y el /sacar usa #enable autoread
 - Puede ocasionar que el numero se vaya a soporte 
-➤ PayPal para apoyo voluntario: https://www.paypal.me/TheShadowBrokers133
 ➤ Numero de ayuda durante la instalacion: wa.me/50671762786 (No Bot, solo ayuda durante la instalación)
 
 *◄┢┅͜͡✇⟬↯ື ►ஜ۩💥۩ஜ◄ ↯ື⟭✇͜͡┅┧►*
