@@ -131,33 +131,33 @@ let menu =`
 ┏━━━━━━━━━━━━━┓
 ┃ *<GESTION DE GRUPOS/>* 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟😂 _${usedPrefix}admins *texto*_ 
-┣ ඬ⃟😂 _${usedPrefix}añadir *numero*_ 
-┣ ඬ⃟😂 _${usedPrefix}sacar @tag_
-┣ ඬ⃟😂 _${usedPrefix}save *@tag + nombre de contacto*_
-┣ ඬ⃟😂 _${usedPrefix}daradmin *@tag*_
-┣ ඬ⃟😂 _${usedPrefix}quitaradmin *@tag*_
-┣ ඬ⃟😂 _${usedPrefix}grupo *abrir / cerrar*_
-┣ ඬ⃟😂 _${usedPrefix}enable nsfw_
-┣ ඬ⃟😂 _${usedPrefix}disable nsfw_
-┣ ඬ⃟😂 _${usedPrefix}enable welcome_
-┣ ඬ⃟😂 _${usedPrefix}disable welcome_
-┣ ඬ⃟😂 _${usedPrefix}enable antilink_
-┣ ඬ⃟😂 _${usedPrefix}disable antilink_
-┣ ඬ⃟😂 _${usedPrefix}enable antilink2_
-┣ ඬ⃟😂 _${usedPrefix}disable antilink2_
-┣ ඬ⃟😂 _${usedPrefix}enable delete_
-┣ ඬ⃟😂 _${usedPrefix}disable  delete_ 
-┣ ඬ⃟😂 _${usedPrefix}link_
-┣ ඬ⃟😂 _${usedPrefix}notificar *texto*_
-┣ ඬ⃟😂 _${usedPrefix}setname *Nuevo nombre del grupo*_
-┣ ඬ⃟😂 _${usedPrefix}setdesc *Nueva descripción del grupo*_
-┣ ඬ⃟😂 _${usedPrefix}infogrupo_
-┣ ඬ⃟😂 _${usedPrefix}invocar *texto*_
-┣ ඬ⃟😂 _${usedPrefix}del *responder a un mensaje del bot*_
-┣ ඬ⃟😂 _${usedPrefix}fantasmas_
-┣ ඬ⃟😂 _${usedPrefix}banchat_
-┣ ඬ⃟😂 _${usedPrefix}unbanchat_
+┣ ඬ⃟🔵 _${usedPrefix}admins *texto*_ 
+┣ ඬ⃟🔵 _${usedPrefix}añadir *numero*_ 
+┣ ඬ⃟🔵 _${usedPrefix}sacar @tag_
+┣ ඬ⃟🔵 _${usedPrefix}save *@tag + nombre de contacto*_
+┣ ඬ⃟🔵 _${usedPrefix}daradmin *@tag*_
+┣ ඬ⃟🔵 _${usedPrefix}quitaradmin *@tag*_
+┣ ඬ⃟🔵 _${usedPrefix}grupo *abrir / cerrar*_
+┣ ඬ⃟🔵 _${usedPrefix}enable nsfw_
+┣ ඬ⃟🔵 _${usedPrefix}disable nsfw_
+┣ ඬ⃟🔵 _${usedPrefix}enable welcome_
+┣ ඬ⃟🔵 _${usedPrefix}disable welcome_
+┣ ඬ⃟🔵 _${usedPrefix}enable antilink_
+┣ ඬ⃟🔵 _${usedPrefix}disable antilink_
+┣ ඬ⃟🔵 _${usedPrefix}enable antilink2_
+┣ ඬ⃟🔵 _${usedPrefix}disable antilink2_
+┣ ඬ⃟🔵 _${usedPrefix}enable delete_
+┣ ඬ⃟🔵 _${usedPrefix}disable  delete_ 
+┣ ඬ⃟🔵 _${usedPrefix}link_
+┣ ඬ⃟🔵 _${usedPrefix}notificar *texto*_
+┣ ඬ⃟🔵 _${usedPrefix}setname *Nuevo nombre del grupo*_
+┣ ඬ⃟🔵 _${usedPrefix}setdesc *Nueva descripción del grupo*_
+┣ ඬ⃟🔵 _${usedPrefix}infogrupo_
+┣ ඬ⃟🔵 _${usedPrefix}invocar *texto*_
+┣ ඬ⃟🔵 _${usedPrefix}del *responder a un mensaje del bot*_
+┣ ඬ⃟🔵 _${usedPrefix}fantasmas_
+┣ ඬ⃟🔵 _${usedPrefix}banchat_
+┣ ඬ⃟🔵 _${usedPrefix}unbanchat_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<CREADORES/>*
