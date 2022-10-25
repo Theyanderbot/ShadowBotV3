@@ -1,6 +1,6 @@
 # **🔥 𝗧𝗵𝗲 YANDER- 𝗕𝗼𝘁 🔥**
 ### `NECESITAS AYUDA?, CONTACTAME`
-<a href="http://wa.me/50671862786" target="blank"><img src="https://img.shields.io/badge/YANDER_ARIAS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/50671103203" target="blank"><img src="https://img.shields.io/badge/YANDER_ARIAS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 ### 
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BrunoSobrino/ShadowBotV3/blob/master/config.js)
@@ -38,7 +38,7 @@ config.js
 > npm start 
 
 > Si el termux se cierra para volver activar escribe:
-> cd ShadowBotV3
+> cd Theyanderbot 
 > npm start 
 
 > Cada vez que realices una modificacion en el
