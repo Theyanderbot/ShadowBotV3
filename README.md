@@ -17,8 +17,8 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/Theyanderbot/THE-DED--BOT..git
-> cd ShadowBotV3
+> git clone https://github.com/Theyanderbot/THE-YANDER-BOT
+> cd THE-YANDER-BOT
 > ls
 > npm install 
 > npm install -g npm@8.7.0
